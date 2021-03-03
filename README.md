@@ -1,2 +1,2 @@
 # proyectoarquitectura
-proyecto creado con html, css, php, javascript
+#proyecto creado con html, css, php, javascript ajax
